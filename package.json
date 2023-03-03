@@ -44,10 +44,10 @@
     "browserify": "^13.1.0",
     "js-datasets-iris": "^1.0.4",
     "licensify": "^3.1.2",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "rimraf": "^2.6.2",
     "sinon": "^1.17.6",
-    "testee": "^0.8.1",
+    "testee": "^0.10.2",
     "uglifyify": "^3.0.2"
   },
   "keywords": [
